@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main()
+{
+  FILE *arq;
+}
+
+CMD: head -n arquivo.c > arquivo2.c
+      mn strcopy (manual da função)
