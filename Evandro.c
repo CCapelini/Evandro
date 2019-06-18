@@ -21,4 +21,6 @@ int main()
   cadnet x;
   FILE *arq;
   int i;
+  
+  arq=fopen("netflix_all.csv", "wb");
 }
